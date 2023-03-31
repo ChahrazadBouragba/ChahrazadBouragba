@@ -1,1 +1,1 @@
-# 👩‍💻 ChahrazadBouragba's Github Profile: Empowering the World Through Code 👩‍💻
+ ChahrazadBouragba's Github Profile: Empowering the World Through Code 👩‍💻
