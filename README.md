@@ -4,7 +4,7 @@ Welcome to my personal GitHub repository. Here you'll find a collection of proje
 
 ## About Me
 
-I am a self-learning software engineer student with a passion for coding, art, and literature. In my free time, I love to create beautiful collections of art and read classic novels. I am always seeking new challenges and opportunities to learn, and I am excited about the possibilities that the world of software engineering offers.
+I am a self-learning software engineer with a passion for coding, art, and literature. In my free time, I love to create beautiful collections of art and read classic novels. I am always seeking new challenges and opportunities to learn, and I am excited about the possibilities that the world of software engineering offers.
 
 If you have any questions or feedback, feel free to reach out to me!
 
