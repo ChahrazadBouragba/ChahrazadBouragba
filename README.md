@@ -1,4 +1,4 @@
-# Hi there, I'm Bell Jar!
+# Hi there, I'm Chahrazad Bouragba!
 
 Welcome to my personal GitHub repository. Here you'll find a collection of projects and exercises I've worked on as part of my software engineering journey.
 
