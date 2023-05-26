@@ -1,6 +1,7 @@
 # Hi there, I'm Chahrazad Bouragba!
 
-![GIF](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
+<iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="600" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
+
 
 
 
