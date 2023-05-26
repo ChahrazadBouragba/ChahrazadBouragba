@@ -1,6 +1,7 @@
 # Hi there, I'm Chahrazad Bouragba!
 
-![GIF](https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)
+![GIF](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
+
 
 
 
