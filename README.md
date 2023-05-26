@@ -1,6 +1,7 @@
 # Hi there, I'm Chahrazad Bouragba!
 
-![GIF](https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif)
+![GIF](https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)
+
 
 
 Welcome to my personal GitHub repository. Here you'll find a collection of projects and exercises I've worked on as part of my software engineering journey.
